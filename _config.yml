@@ -12,7 +12,7 @@ github_repo: "https://github.com/yiyi1921/yiyi1921.github.io.git" # you code rep
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "加油!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-AMD.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
